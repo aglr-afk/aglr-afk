@@ -26,3 +26,5 @@ I'm an AI B.Tech engineer who loves playing with prompt-based AI tools. I turn i
 
 ### Contact
 [Email](mailto:agniva.work26@gmail.com)
+
+<a href="https://buymeacoffee.com/anonymous42"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
