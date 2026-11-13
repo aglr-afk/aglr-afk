@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Agniva 👋</h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=520&lines=Technical+Content+Writer;SEO+%7C+Blockchain+%7C+Web3+%7C+Fintech;Building+small+AI+products" /></p>
 
-<!--
-**aglr-afk/aglr-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+Technical Content Writer. I write about SEO, blockchain, Web3 and fintech, and build small web apps on the side.
 
-Here are some ideas to get you started:
+### Live projects
+- 🎬 **[Cinea](https://cinea.online)**: movie recommendations based on your mood.
+- 📄 **[YourOfficeSuite](https://github.com/aglr-afk/YourOfficeSuite)**: free offline office suite for Windows with documents, sheets, slides and 15 PDF tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+![SEO](https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge) ![Web3](https://img.shields.io/badge/Web3-8A2BE2?style=for-the-badge) ![Blockchain](https://img.shields.io/badge/Blockchain-F7931A?style=for-the-badge) ![Fintech](https://img.shields.io/badge/Fintech-2E8B57?style=for-the-badge) ![Technical Writing](https://img.shields.io/badge/Technical_Writing-E34F26?style=for-the-badge)
+
+### Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aglr-afk&show_icons=true&theme=tokyonight" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aglr-afk&layout=compact&theme=tokyonight" height="150" /></p>
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/agniva-d-801636201/) · [Email](mailto:agniva.work26@gmail.com)
