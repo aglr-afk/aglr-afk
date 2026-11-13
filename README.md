@@ -12,6 +12,15 @@ I build web and desktop apps, with a focus on AI-powered products.
 ### Tech
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
 
+### Project previews
+<table>
+<tr>
+<td align="center"><a href="https://cinea.online"><img src="https://raw.githubusercontent.com/aglr-afk/Cinea/main/home.png" width="320" /></a><br /><b>Cinea</b></td>
+<td align="center"><a href="https://github.com/aglr-afk/YourOfficeSuite"><img src="https://raw.githubusercontent.com/aglr-afk/YourOfficeSuite/main/docs/screenshots/home.png" width="320" /></a><br /><b>YourOfficeSuite</b></td>
+<td align="center"><a href="https://viralin.lovable.app"><img src="https://raw.githubusercontent.com/aglr-afk/Viralin/main/landing.png" width="320" /></a><br /><b>Viralin</b></td>
+</tr>
+</table>
+
 ### Stats
 <p align="center"><img src="https://streak-stats.demolab.com/?user=aglr-afk&theme=tokyonight&hide_border=true" height="170" /></p>
 
