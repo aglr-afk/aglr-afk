@@ -21,6 +21,9 @@ I'm an AI B.Tech engineer who loves playing with prompt-based AI tools. I turn i
 </tr>
 </table>
 
+### YourOfficeSuite demo
+<p align="center"><video src="https://github.com/aglr-afk/YourOfficeSuite/raw/main/docs/media/YourOfficeSuite-demo.mp4" controls muted width="640"></video></p>
+
 ### Stats
 <p align="center"><img src="https://streak-stats.demolab.com/?user=aglr-afk&theme=tokyonight&hide_border=true" height="170" /></p>
 
