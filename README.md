@@ -2,7 +2,7 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=520&lines=Building+AI-powered+web+apps;Tech+products+from+idea+to+live" /></p>
 
 ### About
-I build web and desktop apps, with a focus on AI-powered products.
+I'm an AI B.Tech engineer who loves playing with prompt-based AI tools. I turn ideas into working products: a mood-based movie finder, a free offline office suite and a LinkedIn content generator. Always building, testing and learning by shipping.
 
 ### Live projects
 - 🎬 **[Cinea](https://cinea.online)**: movie recommendations based on your mood.
