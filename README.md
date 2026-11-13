@@ -6,7 +6,7 @@ I build web and desktop apps, with a focus on AI-powered products.
 
 ### Live projects
 - 🎬 **[Cinea](https://cinea.online)**: movie recommendations based on your mood.
-- 📄 **[YourOfficeSuite](https://github.com/aglr-afk/YourOfficeSuite)**: free offline office suite for Windows with documents, sheets, slides and 15 PDF tools.
+- 📄 **[YourOfficeSuite]([https://github.com/aglr-afk/YourOfficeSuite](https://yourofficesuite-website.vercel.app/))**: free offline office suite for Windows with documents, sheets, slides and 15 PDF tools.
 - ✍️ **[Viralin](https://viralin.lovable.app)**: AI LinkedIn content generator with seven tools, from topic ideas to ready-to-post content. My first AI project.
 
 ### Tech
