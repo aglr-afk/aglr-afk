@@ -16,7 +16,7 @@ I'm an AI B.Tech engineer who loves playing with prompt-based AI tools. I turn i
 <table>
 <tr>
 <td align="center"><a href="https://cinea.online"><img src="https://raw.githubusercontent.com/aglr-afk/Cinea/main/home.png" width="320" /></a><br /><b>Cinea</b></td>
-<td align="center"><a href="https://github.com/aglr-afk/YourOfficeSuite"><img src="https://raw.githubusercontent.com/aglr-afk/YourOfficeSuite/main/docs/screenshots/home.png" width="320" /></a><br /><b>YourOfficeSuite</b></td>
+<td align="center"><a href="https://yourofficesuite-website.vercel.app/"><img src="https://raw.githubusercontent.com/aglr-afk/YourOfficeSuite/main/docs/screenshots/home.png" width="320" /></a><br /><b>YourOfficeSuite</b></td>
 <td align="center"><a href="https://viralin.lovable.app"><img src="https://raw.githubusercontent.com/aglr-afk/Viralin/main/landing.png" width="320" /></a><br /><b>Viralin</b></td>
 </tr>
 </table>
