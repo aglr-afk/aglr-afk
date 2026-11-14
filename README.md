@@ -35,6 +35,6 @@ https://github.com/user-attachments/assets/ff52cefe-8715-47ec-897e-0474db99d2eb
 <p align="center"><img src="https://streak-stats.demolab.com/?user=aglr-afk&theme=tokyonight&hide_border=true" height="170" /></p>
 
 ### Contact
-[Email](mailto:agniva.work26@gmail.com)
+[Email Me](mailto:agnivabuilds@proton.me)
 
 <a href="https://buymeacoffee.com/anonymous42"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
