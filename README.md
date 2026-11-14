@@ -10,7 +10,7 @@ And hey, don't forget to star my projects; do shower some love if you genuinely 
 
 ### Live projects
 - 🎬 **[Cinea](https://cinea.online)**: movie recommendations based on your mood. Built with Google AI Studio and Gemini Flash.
-- 📄 **[YourOfficeSuite](https://yourofficesuite-website.vercel.app/)**: free offline office suite for Windows with documents, sheets, slides and 15 PDF tools. Built with Claude Fable 5.2.
+- 📄 **[YourOfficeSuite](https://www.yourofficesuite.com/)**: free offline office suite for Windows with documents, sheets, slides and 15 PDF tools. Built with Claude Fable 5.2.
 - ✍️ **[Viralin](https://viralin.lovable.app)**: AI LinkedIn content generator with seven tools, from topic ideas to ready-to-post content. My first production-deployed AI project. Built in Lovable with Gemini Flash.
 
 ### Tech
@@ -20,7 +20,7 @@ And hey, don't forget to star my projects; do shower some love if you genuinely 
 <table>
 <tr>
 <td align="center"><a href="https://cinea.online"><img src="https://raw.githubusercontent.com/aglr-afk/Cinea/main/home.png" width="320" /></a><br /><b>Cinea</b></td>
-<td align="center"><a href="https://yourofficesuite-website.vercel.app/"><img src="https://raw.githubusercontent.com/aglr-afk/YourOfficeSuite/main/docs/screenshots/home.png" width="320" /></a><br /><b>YourOfficeSuite</b></td>
+<td align="center"><a href="https://www.yourofficesuite.com/"><img src="https://raw.githubusercontent.com/aglr-afk/YourOfficeSuite/main/docs/screenshots/home.png" width="320" /></a><br /><b>YourOfficeSuite</b></td>
 <td align="center"><a href="https://viralin.lovable.app"><img src="https://raw.githubusercontent.com/aglr-afk/Viralin/main/landing.png" width="320" /></a><br /><b>Viralin</b></td>
 </tr>
 </table>
