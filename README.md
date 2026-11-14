@@ -26,7 +26,7 @@ And hey, don't forget to star my projects; do shower some love if you genuinely 
 </table>
 
 ### YourOfficeSuite demo
-https://github.com/user-attachments/assets/ec547ac3-94cc-4669-b3b6-752f8acd816b
+https://github.com/user-attachments/assets/ff52cefe-8715-47ec-897e-0474db99d2eb
 
 ### Stats
 <p align="center"><img src="https://streak-stats.demolab.com/?user=aglr-afk&theme=tokyonight&hide_border=true" height="170" /></p>
