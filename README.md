@@ -11,7 +11,7 @@ And hey, don't forget to star my projects; do shower some love if you genuinely 
 ### Live projects
 - 🎬 **[Cinea](https://cinea.online)**: movie recommendations based on your mood. Built with Google AI Studio and Gemini Flash.
 - 📄 **[YourOfficeSuite](https://yourofficesuite-website.vercel.app/)**: free offline office suite for Windows with documents, sheets, slides and 15 PDF tools. Built with Claude Fable 5.2.
-- ✍️ **[Viralin](https://viralin.lovable.app)**: AI LinkedIn content generator with seven tools, from topic ideas to ready-to-post content. My first AI project. Built in Lovable with Gemini Flash.
+- ✍️ **[Viralin](https://viralin.lovable.app)**: AI LinkedIn content generator with seven tools, from topic ideas to ready-to-post content. My first production-deployed AI project. Built in Lovable with Gemini Flash.
 
 ### Tech
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
