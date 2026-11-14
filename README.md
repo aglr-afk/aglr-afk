@@ -2,7 +2,11 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=520&lines=Building+AI-powered+web+apps;Tech+products+from+idea+to+live" /></p>
 
 ### About
-I'm an AI B.Tech engineer who loves playing with prompt-based AI tools. I turn ideas into working products: a mood-based movie finder, a free offline office suite and a LinkedIn content generator. Always building, testing and learning by shipping.
+Hi, I'm a B.Tech AI graduate who loves playing with prompt-based AI tools. I remember the day when ChatGPT was launched back in Nov 2022. I used to spend hours talking with it, and TBH, I built my final-year college project solely with ChatGPT 3.5 Turbo. If you have used that version, you might know that the model's performance on coding. Yet I made the most of it and built a custom edgeGPT with a local interface, backed by the wisdom of the Internet. 
+
+I did pretty well, considering how new ChatGPT was at the time, building a solid UI for the chat interface in VS Code without writing a single line of code. Fast forward to today, I have gone on to build **Viralin**: an AI-powered LinkedIn Content Generation and Editing Tool; then **Cinea** (because I love movies and can't decide which one to go for 😕); now a **fully offline office suite minus the ads**, tracking & most importantly, the overpriced fees. Saw a problem and used AI to build the solution. Do check out these projects below. 
+
+And hey, don't forget to star my projects; do shower some love if you genuinely liked them. Till then, **Good Luck, Have Fun, and Don't D***!!**
 
 ### Live projects
 - 🎬 **[Cinea](https://cinea.online)**: movie recommendations based on your mood. Built with Google AI Studio and Gemini Flash.
