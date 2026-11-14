@@ -25,6 +25,9 @@ And hey, don't forget to star my projects; do shower some love if you genuinely 
 </tr>
 </table>
 
+### Cinea demo
+https://github.com/user-attachments/assets/ddb6f5ce-2fc4-4ff0-95de-22780023adf3
+
 ### YourOfficeSuite demo
 https://github.com/user-attachments/assets/ff52cefe-8715-47ec-897e-0474db99d2eb
 
