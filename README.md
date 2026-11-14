@@ -6,7 +6,7 @@ Hi, I'm a B.Tech AI graduate who loves playing with prompt-based AI tools. I rem
 
 I did pretty well, considering how new ChatGPT was at the time, building a solid UI for the chat interface in VS Code without writing a single line of code. Fast forward to today, I have gone on to build **Viralin**: an AI-powered LinkedIn Content Generation and Editing Tool; then **Cinea** (because I love movies and can't decide which one to go for 😕); now a **fully offline office suite minus the ads**, tracking & most importantly, the overpriced fees. Saw a problem and used AI to build the solution. Do check out these projects below. 
 
-And hey, don't forget to star my projects; do shower some love if you genuinely liked them. Till then, **Good Luck, Have Fun, and Don't D***!!**
+And hey, don't forget to star my projects; do shower some love if you genuinely liked them. Till then, **Good Luck, Have Fun, and Don't D*E**
 
 ### Live projects
 - 🎬 **[Cinea](https://cinea.online)**: movie recommendations based on your mood. Built with Google AI Studio and Gemini Flash.
